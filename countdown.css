@@ -1,0 +1,31 @@
+/* style.css */
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    background: #0f172a;
+    color: white;
+    font-family: 'Arial', sans-serif;
+  }
+  
+  .countdown {
+    background: #1e293b;
+    padding: 40px;
+    border-radius: 15px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.3);
+    text-align: center;
+  }
+  
+  .time-box h1 {
+    font-size: 80px;
+    margin: 0;
+    color: #38bdf8;
+  }
+  
+  .time-box p {
+    font-size: 24px;
+    margin: 0;
+  }
+  
